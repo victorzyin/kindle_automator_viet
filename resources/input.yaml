@@ -1,0 +1,11 @@
+download_folder: "/Users/Downloads"
+email_password: "ghaoewijalwejksdfsaf"
+from_email: "adam@silver.com"
+dest_email: "jamesharden@goat.com"
+email_subject: "Subject!"
+email_contents: "Contents!"
+links:
+  - "https://sachhoc.com/ngon-tinh?page=3&init=TU1FZTNPYzlKT3ZRU0MyN1NVZlFHQT09"
+  - "https://sachhoc.com/ngon-tinh?page=4&init=TU1FZTNPYzlKT3ZRU0MyN1NVZlFHQT09"
+  - "https://sachhoc.com/ngon-tinh?page=5&init=TU1FZTNPYzlKT3ZRU0MyN1NVZlFHQT09"
+  - "https://sachhoc.com/ngon-tinh?page=6&init=TU1FZTNPYzlKT3ZRU0MyN1NVZlFHQT09"
